@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(228, 228, 118);
+}
+
+i{
+    position: absolute;
+    font-size: 80px;
+    transform: translate(-50%, -120%);
+    top: 50%;
+    margin-left: 50%;
+}
+h1 {
+    padding: 300px;
+    text-align: center;
+}
